@@ -9,4 +9,4 @@ Features:
 - Start with $100
 - Hit or stand
 
-![Twenty-One](https://github.com/rjb/Twenty-One/blob/master/twenty-one.png?raw=true)
+<img src="https://github.com/rjb/Twenty-One/blob/master/twenty-one.png?raw=true" width="500">
